@@ -12,6 +12,6 @@
   80×80
   </div>
 </div>
-
+</body>
 </head>
 </html>
