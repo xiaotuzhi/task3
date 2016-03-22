@@ -45,19 +45,20 @@ body{
 	border:1px solid #999;
 	position:absolute;
 	top:0px;
-	left:230px;
-	right:160px;
+	left:220px;
+	right:140px;
 }
 .background{
 	background-color:white;
 	border:1px solid #999;
 	width:120px;
 	float:right;
-	margin:-140px 10px 0 0;
+	margin:-140px 0 0 0;
+	padding:10px 0;
 }
 .personal-logo img{
 	width:80px;
 	height:80px;
 	border:1px solid #999;
-	margin:20px;
+	margin:10px 20px;
 }
